@@ -1,0 +1,5 @@
+PROJECT PRIME — versión inicial gratuita
+1. Descomprime el ZIP. En Windows abre index.html con Edge o Chrome para probar.
+2. Para usarlo en iPhone como app web, publica esta carpeta en un alojamiento estático HTTPS gratuito (por ejemplo GitHub Pages, con repositorio público y sin datos personales). No subas las copias JSON de tus datos.
+3. Abre la dirección publicada en Safari, pulsa Compartir > Añadir a pantalla de inicio. Los registros se guardan en el navegador/dispositivo; exporta copias desde Mi vida.
+4. No requiere API, cuenta de pago, ni servidor de datos. La publicación nativa en App Store no está incluida. El entrenador usa reglas, no IA generativa.
