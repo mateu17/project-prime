@@ -1,1 +1,24 @@
-{"name": "PROJECT PRIME", "short_name": "PRIME", "start_url": "./", "display": "standalone", "background_color": "#101412", "theme_color": "#101412", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}], "id": "./", "scope": "./"}
+{
+  "name": "PROJECT PRIME",
+  "short_name": "prime.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B0E17",
+  "theme_color": "#0B0E17",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "./",
+  "scope": "./"
+}
